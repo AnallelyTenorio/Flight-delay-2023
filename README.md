@@ -168,9 +168,9 @@ El contraste entre ambas métricas muestra que **no todas las rutas con alta fre
 > Concentrar esfuerzos en estos corredores prioritarios, mejorar la coordinación de flotas y ajustar la programación de operaciones son pasos clave para **reducir los minutos promedio de demora y mejorar la experiencia del pasajero**.
 
 # Links de interes
-Presentación
+* Presentación
 https://docs.google.com/presentation/d/1yEfJ--k30hbx9kNJ_JyDdGUICSFpCpVoMSXVRQKFTYU/edit?usp=sharing
-Notebook
+* Notebook
 https://colab.research.google.com/drive/1o2oqR70UVN0jXKHvzeRgFGkTk_3gQoVt?usp=sharing
 
 
